@@ -14,7 +14,7 @@ This project explores player engagement behavior in online gaming using data ana
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Machine Learning (Random Forest Classifier)
 - Data Visualization (Power BI, Matplotlib, Seaborn)
